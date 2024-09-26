@@ -1,4 +1,4 @@
-package ex2;
+package ex_2;
 
 /**
  * Représente un compte bancaire de type Livret A qui ne peut pas avoir de découvert

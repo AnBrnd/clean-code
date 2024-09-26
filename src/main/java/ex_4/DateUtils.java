@@ -1,4 +1,4 @@
-package ex4;
+package ex_4;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

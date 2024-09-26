@@ -1,4 +1,4 @@
-package ex3;
+package ex_3;
 
 /**
  * Classe représentant un animal dans le zoo.

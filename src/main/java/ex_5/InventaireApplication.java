@@ -1,4 +1,4 @@
-package ex5;
+package ex_5;
 
 public class InventaireApplication {
 

@@ -1,4 +1,4 @@
-package ex1;
+package ex_1;
 
 /**
  * Cette classe fournit des méthodes pour effectuer des opérations basiques

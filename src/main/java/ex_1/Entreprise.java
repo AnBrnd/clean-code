@@ -1,6 +1,6 @@
-package ex1;
+package ex_1;
 
-import java.util.Date;
+import java.time.LocalDate;
 
 /**
  * La classe Entreprise représente une entreprise avec ses informations de base
@@ -22,12 +22,13 @@ public class Entreprise {
     private String adresse;
 
     // Date de création de l'entreprise
-    private Date dateCreation;
+    private LocalDate dateCreation;
 
     /**
      * Affiche le statut de l'entreprise.
      */
 
     public void afficherStatut() {
+        throw new UnsupportedOperationException("notImplemented() cannot be performed because ...");
     }
 }

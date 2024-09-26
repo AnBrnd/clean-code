@@ -1,4 +1,4 @@
-package ex2;
+package ex_2;
 
 /**
  * Représente un compte courant qui peut avoir un découvert
